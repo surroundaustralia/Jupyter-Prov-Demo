@@ -5,9 +5,12 @@ description = ""
 authors = ["adamdavis2 <adam.davis@surroundaustralia.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 jupyter = "^1.0.0"
 requests = "^2.27.1"
+sparqlkernel = "^1.3.0"
+graphviz = "^0.19.1"
+httpx = "^0.22.0"
 
 [tool.poetry.dev-dependencies]
 
