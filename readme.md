@@ -9,4 +9,4 @@ There are two Jupyter notebooks in this repository:
 - `jupyter notebook [notebook_name]` locally
 - IDEs with Jupyter integration (e.g. PyCharm) - see IDE's documentation for more information.
 - Google Colab e.g. https://colab.research.google.com/github/surroundaustralia/Jupyter-Prov-Demo/blob/master/prov_display.ipynb
-- mybinder.org e.g. https://mybinder.org/v2/gh/surroundaustralia/Jupyter-Prov-Demo/HEAD?labpath=prov_display.ipynb
+- ~~mybinder.org e.g. https://mybinder.org/v2/gh/surroundaustralia/Jupyter-Prov-Demo/HEAD?labpath=prov_display.ipynb~~ there is an issue hitting AWS endpoints from mybinder
